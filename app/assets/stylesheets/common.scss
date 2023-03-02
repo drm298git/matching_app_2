@@ -1,0 +1,14 @@
+.Navbar {
+  background-color: #1c1d3b;
+  height: 80px;
+}
+
+.navber {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
